@@ -1,0 +1,1 @@
+{"mockup":{"controls":{"control":[{"ID":"0","h":"640","measuredH":"867","measuredW":"434","properties":{"bgPattern":"allWhite","model":"IPhoneX","orientation":"portrait","resizing":"stretch"},"typeID":"iPhone","w":"320","x":"590","y":"22","zOrder":"0"}]},"measuredH":"662","measuredW":"910","mockupH":"640","mockupW":"320","version":"1.0"}}
