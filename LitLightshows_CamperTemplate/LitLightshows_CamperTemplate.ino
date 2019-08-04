@@ -27,8 +27,6 @@ void loop() {
   // THIS IS WHERE WE WILL PUT OUR CODE
 
 
-}
-
 /**
  * Can use the function below to set the colour of the RGB Led.
  * call the function and give it 3 values between 0 and 255.
@@ -36,7 +34,9 @@ void loop() {
  * Can also create a random colour by doing the line below:
  * setRGBColour(random(0, 255), random(0,255), random(0,255));
  */
-void setRGBColour(int red, int green, int blue){
+void (); {
+
+setRGBColour(int red, int green, int blue){
   analogWrite(RGBRedPin, red);
   analogWrite(RGBGreenPin, green);
   analogWrite(RGBBluePin, blue);
@@ -49,7 +49,11 @@ void setRGBColour(int red, int green, int blue){
  * If the LED is on, this will turn it off, and if its off it will turn it on.
  * Can be called by going -> switchColour("Red")
  */
-void switchColour(String colour){
+
+  void () {
+  
+  switchColour(String colour)
+
   if(colour == "Red"){
     if(redPinState == 0){
       digitalWrite(redPin, HIGH);
